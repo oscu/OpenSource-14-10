@@ -14,7 +14,7 @@
 
 #分组信息#
 
-编辑[分组信息](https://github.com/oscu/OpenSource-13-10/wiki/%E5%88%86%E7%BB%84%E4%BF%A1%E6%81%AF)页面，将分组信息添加进去。
+编辑[分组信息](https://github.com/oscu/OpenSource-14-10/wiki/%E5%88%86%E7%BB%84%E4%BF%A1%E6%81%AF)页面，将分组信息添加进去。
 
 
 
