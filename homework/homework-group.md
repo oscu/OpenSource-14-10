@@ -1,10 +1,12 @@
 # 标题 #
 
-  组名： 成员名称，id
-  Cloud-age: 李国芳， lili6
-             王奎量 vfrankwang
-             陈鲁 loulou886
-             柴跃立
+  组名：Doit
+  Cloud-age: 
+            史志远 Yes_love
+            李璞宁 Puenlee
+            张钊雄 Zhang Zhaoxiong
+            杜成帅 ducs-personal
+
 
 ## 课程感受 ##
 
