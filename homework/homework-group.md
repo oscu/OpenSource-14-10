@@ -1,11 +1,11 @@
 # 标题 #
 
-  组名：Doit
+  组名：Doit:smile:
   Cloud-age: 
-            史志远 Yes_love
-            李璞宁 Puenlee
-            张钊雄 Zhang Zhaoxiong
-            杜成帅 ducs-personal
+            史志远 Yes_love<br>
+            李璞宁 Puenlee<br>
+            张钊雄 Zhang Zhaoxiong<br>
+            杜成帅 ducs-personal<br>
 
 
 ## 课程感受 ##
