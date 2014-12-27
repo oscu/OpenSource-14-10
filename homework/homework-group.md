@@ -1,7 +1,7 @@
 #课后感想#
   组名：open-cloud :smile:<br>
   >成员：<br>
-  　  　史志远 Yes_love<br>
+  　   史志远 Yes_love<br>
 　　　 李璞宁 Puenlee<br>
 　　　 张钊雄 Zhang Zhaoxiong<br>
 　　　 杜成帅 ducs-personal<br>
@@ -16,7 +16,14 @@
 公众使用的软件，并且此软件的使用，修改和分发也不受许可证的限制。Open Source Software通常是有copyright的，他的license可能包含 这样一些限制：蓄意的保护它的开放源码状态；著者身份的公告；或者开发的控制；对个人，或组织不得有歧视；不得具体到某一产品；不得限制其他的软件。 License 的定义是：Permission by the owner of property to take some act that the owner has the ability to control。License的目标是确保某些代码保持Open Source，建立一个商业联盟，鼓励第三方市场，挑战竞争者等等。典型的license是 Apache License 2.0，BSD license GNU General Public License(GPL)，”Lesser” General Public License(LGPL)，Mozilla Public License 1.1(MPL)。开源软件的成功基石动力源泉是Open Source Community，当我们是Open Source Community其中一员时，license决定了这个社区
 运行规则。Apache Community 由开发者和贡献者组成，它的主旨是社区优于代码，任人唯贤，共识决策，透明公开，非隶属关系，负责监督，Apache已成为一种协同开发合作的典范。Apache之道是一个活生生的文化，这种文化已经融入在我们的邮件，我们的代码提交，和我们的生活当中。<br>
 
-
+课程中讲到了免费软件和自由软件的区别，这令我印象深刻。之前确实将自由软件和免费软件等同来看待，原来自己错的是这么离谱。【1】自由软件是一种可以不受限制地自由使用、复制、研究、修改和分发的软件。可以买卖。这方面的不受限制正是自由软件最重要的本质。主要许可证有GPL和BSD许可证两种。“free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech,” not as in “freebeer”。“免费软件”（freeware）是一种不须付费就可取得的软件，但是通常有其他的自由软件限制，使用者并没有使用、复制、研究、修改和分发的自由。该软件的源代码不一定会公开，也有可能会限制重制及发再行的自由，所以免费软件的重点是不需要花钱，而不是自由的软件。
+根据斯托曼和自由软件基金会（FSF）的定义，自由软件赋予使用者四种自由:
+自由之零：不论目的为何，有使用该软件的自由。
+自由之一：有研究该软件如何运作的自由，并且得以改写该软件来符合使用者自身的需求。取得该软件之源码为达成此目的之前提。
+自由之二：有重新散布该软件的自由，所以每个人都可以借由散布自由软件来敦亲睦邻。
+自由之三：有改善再利用该软件的自由，并且可以发表改写版供公众使用，如此一来，整个社群都可以受惠。如前项，取得该软件之源码为达成此目的之前提。
+如果一软件的使用者具有上述四种权利，则该软件得以被称之为“自由软件”。也就是说，使用者必须能够自由地、以不收费或是收取合理的散布费用的方式、在任何时间再散布该软件的原版或是改写版在任何地方给任何人使用。如果使用者不必问任何人或是支付任何的许可费用从事这些行为，就表示她/他拥有自由软件所赋予的自由权利。
+其他的关于自由软件的知识需要自己在日常期间主动的去深入研究，去发现自由软件的优点以及对整个社会产生的影响。让自己也能够不但能运用自由软件，而且还要去参与到自由软件的发展当中。学以致用才是根本之道。<br>
 
 **3.课程建议**<br>
 张钊雄 开源课程建议
@@ -24,3 +31,4 @@
 ## 组员贡献 ##
 
 ## 参考资料 ##
+【1】：部分内容源自百度百科：http://baike.baidu.com/link?url=626vQfQmyWf55Tn2EtOSbUD582wVCiYNx4Z2FBug8mnmGWLF6PtO7268ToioDP9BNeCZNm0iVpcK6fkNQQTSFq
